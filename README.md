@@ -1,4 +1,4 @@
-# Frontend Mentor - QR code component solution
+# Frontend Mentor - Social links profile solution
 
 ---
 
@@ -23,7 +23,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 ### Links
 
 - Solution URL: [Solution](https://github.com/m07mmad-nasr/Social-links-profile-challenge-02)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://social-links-profile-challenge-02.vercel.app/)
 
 ## My process
 
